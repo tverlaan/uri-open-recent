@@ -24,7 +24,7 @@
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
 		"watch": "tsc -watch -p ./",
-		"package": "vsce package",
+		"package": "vsce package --githubBranch main",
 		"pretest": "yarn run compile && yarn run lint",
 		"lint": "eslint src --ext ts",
 		"test": "node ./out/test/runTest.js"
