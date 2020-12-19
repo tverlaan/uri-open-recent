@@ -1,6 +1,6 @@
 # VS Code: Open Recent via URI
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/timmoverlaan.uri-open-recent.svg)](https://marketplace.visualstudio.com/items?itemName=timmoverlaan.uri-open-recent)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/timmoverlaan.uri-open-recent)](https://marketplace.visualstudio.com/items?itemName=timmoverlaan.uri-open-recent)
 
 This VS code extension adds an URI handler to quickly open a project from elsewhere (eg GitHub, GitLab, BitBucket). The name of the project must be present in recent items for this extension to find it. This is the structure of the URI:
 
