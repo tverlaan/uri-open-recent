@@ -12,7 +12,7 @@ This VS code extension adds an URI handler to quickly open a project from elsewh
 
 1. Install this extension
 2. From VS Code: [Open this repo on GitHub](https://github.com/tverlaan/uri-open-recent)
-3. To VS Code: [Open or clone this repo in VS Code](vscode://timmoverlaan.uri-open-recent/open-or-clone?project=uri-open-recent&url=https%3A%2F%2Fgithub.com%2Ftverlaan%2Furi-open-recent.git)
+3. To VS Code: [Open or clone this repo in VS Code](https://tverlaan.github.io/uri-open-recent.html)
 
 ## Features
 
