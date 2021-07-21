@@ -32,4 +32,4 @@ Not applicable
 
 ## Browser integrations
 
-  * [Atlassian to VS Code](https://github.com/tverlaan/atlas-to-vscode) (Chrome)
+  * [Open in VS Code](https://github.com/tverlaan/open-in-vscode) (Chrome)
